@@ -1,1 +1,1 @@
-Android app for counting money.
+Android Jetpack Compose app for counting money.
